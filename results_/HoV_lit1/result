@@ -1,0 +1,6 @@
+load model with the lowest valid MAE, evaluate train,valid,test
+test MAE- 0.79346305
+------------------------------------------
+2291 571 571
+MAE_train :  0.65963775 , MAE_valid :  0.79346406 , MAE_test :   0.79346305
+

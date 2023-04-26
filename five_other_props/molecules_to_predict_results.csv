@@ -1,0 +1,4 @@
+smiles,temperature,total_atoms,predicted
+CCCC,298.15,4,206.5547
+CCCCC,298.15,5,229.32117
+CCCCCC,298.15,6,247.92616

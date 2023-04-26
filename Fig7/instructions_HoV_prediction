@@ -1,0 +1,7 @@
+1. Create 'molecules_to_predict.csv' in which there are two columns: 'smiles', 'temperature'
+
+2. Run this command to predict HoV:
+python main.py -predict -modelname best_211007 -loss kl_div_normal
+('molecules_to_predict.csv' and main.py should be at the same directory)
+
+3. Analyze the output file 'molecules_to_predict_results.csv'
